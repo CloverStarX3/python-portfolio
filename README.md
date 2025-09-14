@@ -1,0 +1,1 @@
+This is just a simple receipt generator. you can put an item name and cost . when you have no more items type done in the next item question. then run and you will have a simple recipt, no tax calculation thoiugh i might upload a second more accurate simple cash register program.
